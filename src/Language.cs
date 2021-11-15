@@ -39,5 +39,8 @@ namespace TesseractSharp
 
         [Description("rus")]
         Russian = 11
+        
+        [Description("amh")]
+        Amharic = 12        
     }
 }
